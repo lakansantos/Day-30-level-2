@@ -13,7 +13,7 @@
 .head{
     width: 500px;
     height: 200px;
-    background-image: url(https://raw.githubusercontent.com/lakansantos/Day-30-level-2/2ffc77d823b544008be02b1551667e52a5796c6c/src/img/blob.svg) no-repeat center/cover;
+    background-image: url('https://raw.githubusercontent.com/lakansantos/Day-30-level-2/2ffc77d823b544008be02b1551667e52a5796c6c/src/img/blob.svg') no-repeat center/cover;
     border-radius: 20px 20px 0px 0px;
 }
 
