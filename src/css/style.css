@@ -13,7 +13,7 @@
 .head{
     width: 500px;
     height: 200px;
-    background-image: url(src/img/blob.svg) no-repeat center/cover;
+    background-image: url(./img/blob.svg) no-repeat center/cover;
     border-radius: 20px 20px 0px 0px;
 }
 
